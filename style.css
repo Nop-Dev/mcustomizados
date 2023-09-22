@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+div#content {
+    width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Mooli', sans-serif;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+#content img {
+    margin-bottom: 50px;
+}
+
+p {
+    color: #7D7987;
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+#line {
+    width: 568px;
+    height: 0;
+    margin: auto;
+    border: 1px solid #ECEFF2;
+    margin-bottom: 8px;
+}
+
+span, a {
+    color: #FF9900;
+}
+
+a {
+    padding: 10px;
+}
+
+footer {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+
+}
